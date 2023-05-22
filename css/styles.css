@@ -81,10 +81,10 @@ footer img{
 }
 @media (min-width: 320px) and (max-width: 768px) {
     .header {
-        padding: 30px;
+        padding: 10px 0 10px 0;
     }
     .logo {
-        padding-left: 1rem;
+        padding-left: 6px;
     }
     .imgtext p {
         display:none;
